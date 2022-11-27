@@ -1,3 +1,3 @@
 # portfolio
 
-link for profile --> https://matheshravichandran.github.io/portfolio/
+link for profile --> https://ad7987.github.io/portfolio/
